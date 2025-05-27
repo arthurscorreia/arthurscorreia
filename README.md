@@ -3,7 +3,7 @@
 
 🎓  **Ciência da Computação** - **Universidade Federal da Bahia (UFBA) - 3º semestre**.
 
-💛🖤 **Consultor Comercial** - **TITAN Empresa - Júnior de Engenharia da Computação da UFBA**
+💛🖤 **Consultor Comercial** - **TITAN - Empresa Júnior de Engenharia da Computação da UFBA**
 
 ### 🚀 Habilidades Técnicas:
   
