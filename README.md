@@ -1,16 +1,13 @@
-## Hi there 👋
+## Seja bem-vindo(a) ao meu perfil!
 
-<!--
-**arthurscorreia/arthurscorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓  **Ciência da Computação** - **Universidade Federal da Bahia (UFBA)** - **3º semestre**.
 
-Here are some ideas to get you started:
+💛🖤 **Consultor Comercial** - **TITAN Empresa Júnior de Engenharia da Computação da UFBA**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Minhas habilidades:
+- **Linguagens de programação:**  
+  🐍 Python | 🔧 C | 💻 C++ | 🌐 JavaScript, HTML e CSS
+- **Atualmente aprendendo:** ☕ Java
+
+### 📫 Redes Sociais:
+- [https://www.linkedin.com/in/arthurscorreia/] *(adicione aqui, se quiser)*
