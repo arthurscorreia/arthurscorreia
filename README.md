@@ -10,4 +10,4 @@
 - **Atualmente aprendendo:** ☕ Java
 
 ### 📫 Redes Sociais:
-- [LinkedIn] *(https://www.linkedin.com/in/arthurscorreia/)*
+- [LinkedIn](https://www.linkedin.com/in/arthurscorreia/)
