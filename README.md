@@ -5,8 +5,7 @@
 
 💛🖤 **Consultor Comercial** - **TITAN Empresa Júnior de Engenharia da Computação da UFBA**
 
-### 🚀 Minhas habilidades:
-- **Habilidades:**
+### 🚀 Habilidades Técnicas:
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -16,7 +15,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- **Aprendendo:**
+- **Em aprendizado:**
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
