@@ -1,6 +1,14 @@
-## Seja bem-vindo(a) ao meu perfil!
-**Olá! Sou Arthur, entusiasta da computação, apaixonado por tecnologia e aprendizado contínuo. Estou sempre em busca de evoluir e expandir meus conhecimentos.**
+## Welcome to my GitHub profile!  
+**Hi there! I'm Arthur — a computer science enthusiast, passionate about technology and continuous learning. I'm always looking to grow, improve, and expand my knowledge.**  
 
-🎓  **Ciência da Computação** - **Universidade Federal da Bahia (UFBA) - 4º semestre**
+🎓 **Computer Science** — Federal University of Bahia (UFBA) · 4th semester  
 
-💛🖤 **Consultor Comercial** - **TITAN - Empresa Júnior de Engenharia da Computação da UFBA**
+💛🖤 **Business Consultant** — TITAN · Computer Engineering Junior Enterprise · UFBA  
+
+---
+✨ On this profile, you’ll find:  
+- Personal and academic projects  
+- Experiments with different technologies  
+- Constant updates as I progress in my career  
+
+📫 Feel free to connect with me here on GitHub or on [LinkedIn](#) ([insert your link](https://www.linkedin.com/in/arthurscorreia/))  
