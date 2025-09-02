@@ -11,4 +11,4 @@
 - Experiments with different technologies  
 - Constant updates as I progress in my career  
 
-📫 Feel free to connect with me here on GitHub or on [LinkedIn](#) ((https://www.linkedin.com/in/arthurscorreia/))  
+📫 Feel free to connect with me here on GitHub or on [LinkedIn](#)(https://www.linkedin.com/in/arthurscorreia/)
