@@ -4,7 +4,7 @@
 
 🎓 **Computer Science** - Federal University of Bahia (UFBA) - 4th semester  
 
-💛🖤 **Business Consultant** - TITAN - Computer Engineering Junior Enterprise - UFBA  
+💛🖤 **Sales Consultant** - TITAN - Computer Engineering Junior Enterprise - UFBA  
 
 ---
 
