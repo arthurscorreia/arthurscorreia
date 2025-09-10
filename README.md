@@ -1,14 +1,13 @@
-## Welcome to my GitHub profile!  
+## Hi there, I'm Arthur👋
 
-**Hi there! I'm Arthur - a computer science enthusiast, passionate about technology and continuous learning. I'm always looking to grow, improve, and expand my knowledge.**  
+### About me  
 
-🎓 **Computer Science** - Federal University of Bahia (UFBA) - 4th semester  
-
-💛🖤 **Sales Consultant** - TITAN - Computer Engineering Junior Enterprise - UFBA  
+  - Computer Science student in the 4th semester at UFBA
+  - Sales Consultant at TITAN - Computer Engineering Junior Enterprise of UFBA
 
 ---
 
-### 🚀 Technologies  
+### Technologies  
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -25,7 +24,7 @@
 
 ---
 
-### 📫 Let's Connect  
+### Contacts  
 - 💼 [LinkedIn](https://www.linkedin.com/in/arthurscorreia/)  
 - 📧 arthurcorreia2703@gmail.com  
 
