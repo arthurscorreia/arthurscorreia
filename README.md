@@ -26,6 +26,6 @@
 
 ### Contacts  
 - [LinkedIn](https://www.linkedin.com/in/arthurscorreia/)  
-- [Email](arthurcorreia2703@gmail.com) 
+- arthurcorreia2703@gmail.com
 
 ---
