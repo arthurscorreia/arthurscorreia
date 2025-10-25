@@ -10,5 +10,3 @@
 ### Contacts  
 - [LinkedIn](https://www.linkedin.com/in/arthurscorreia/)  
 - arthurcorreia2703@gmail.com
-
----
