@@ -2,8 +2,8 @@
 
 ### About me  
 
-  - Computer Science student in the 4th semester at UFBA
-  - Sales Consultant at TITAN - UFBA's Computer Engineering Junior Enterprise
+  - Computer Science student in the 5th semester at UFBA
+  - Tech Consultant at TITAN - UFBA's Computer Engineering Junior Enterprise
 
 ---
 
