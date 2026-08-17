@@ -2,8 +2,9 @@
 
 ### About me  
 
-  - Computer Science student in the 5th semester at UFBA
+  - Computer Science student in the 6th semester at UFBA
   - Tech Consultant at TITAN - UFBA's Computer Engineering Junior Enterprise
+  - Technology and Innovation Intern at FJS
 
 ---
 
